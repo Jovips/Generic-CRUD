@@ -1,5 +1,5 @@
 # Generic-CRUD
-CRUD Genérico em Python com SQLite
+Generic CRUD in Python with SQLite
 
 ## Requirements
 Make sure you have Python installed on your machine. Additionally, you can install the dependencies using the following command:
@@ -29,6 +29,9 @@ banco.create(table_name='exemplo', sql_query="""
 """)
 
 ```
+## Technologies Used
+- Python
+- Sqlite3
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or pull requests.
