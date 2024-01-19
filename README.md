@@ -1,5 +1,5 @@
 # Generic-CRUD
-Generic CRUD in Python with SQLite
+Generic CRUD in Python for database
 
 ## Requirements
 Make sure you have Python installed on your machine. Additionally, you can install the dependencies using the following command:
